@@ -170,6 +170,25 @@ img.left {
   float:left;
 }
 
+.full-width {
+  display:block;
+  width:100%;
+}
+
+.col-5 {
+  width:18%;
+  margin:0 1%;
+  float:left;
+}
+
+.col-5 img {
+  max-width:100%;
+}
+
+footer .content {
+  padding-top:10px;
+}
+
 /*
  * Themes
  *
@@ -209,6 +228,10 @@ img.left {
 /* Green */
 .theme-base-0b .sidebar {
   background-color: #90a959;
+}
+.theme-base-0b footer {
+  background-color: #507300;
+  color: #ffffff;
 }
 .theme-base-0b .content a,
 .theme-base-0b .related-posts li a:hover {
