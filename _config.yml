@@ -23,4 +23,13 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: shows
+  values:
+    director:
+    open date:
+    close date:
+    small image:
+    featured image: 
 permalink: pretty
