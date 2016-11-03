@@ -31,3 +31,10 @@ Founded in 1983, Kudzu Playhouse has a long and distinguished history as the old
 The Mississippi Arts Commission, a state agency, serves the residents of the state by providing grants that support programs to enhance communities; assist artists and arts organizations; promote the arts in education and celebrate Mississippi’s cultural heritage. Established in 1968, the Mississippi Arts Commission is funded by the Mississippi Legislature, the National Endowment for the Arts, the Mississippi Endowment for the Arts at the Community Foundation of Greater Jackson and other private sources. The agency serves as an active supporter and promoter of arts in community life and in arts education.
 
 For information from the Mississippi Arts Commission, contact Melia Dicker, Communications Director, 601-359-6546 or mdicker@arts.ms.gov.
+
+---
+
+## Support Kudzu when you shop at Kroger and Amazon
+
+![kroger_plus.jpg](/uploads/kroger_plus.jpg) Register for the Kroger Community Rewards Program and help support community theatre in the Mid-South.  Then, when you swipe your Kroger Plus card, Kudzu Playhouse will earn money - up to $50,000 per quarter.  Go to 
+www.krogercommunityrewards.com and click on the "Create an Account" link, or Sign In to your existing account.  Follow the instructions and please remember to select Kudzu Playhouse as your charity - our code is 84516.
