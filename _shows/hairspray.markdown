@@ -6,6 +6,7 @@ open date: 2016-01-22 00:00:00 Z
 close date: 2016-01-31 00:00:00 Z
 small image: "/uploads/hairspray_small.jpg"
 featured image: "/uploads/hairspray_featured.jpg"
+layout: post
 ---
 
 Music by MARC SHAIMAN
