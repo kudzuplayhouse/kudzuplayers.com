@@ -5,11 +5,11 @@ director: Keith Salter
 show_dates: January 22 - 31, 2016
 small image: "/uploads/hairspray_small.jpg"
 featured image: "/uploads/hairspray_featured.jpg"
-venue: 
-hashtag: 
-special_arrangments: 
-rating: 
-is kidzu: 
+venue: Hernando Performing Arts Center
+hashtag: "#hairspraykudzu"
+special_arrangments: Presented by special arrangement with MUSIC THEATRE INTERNATIONAL
+  (MTI)
+rating: PG
 layout: post
 ---
 
