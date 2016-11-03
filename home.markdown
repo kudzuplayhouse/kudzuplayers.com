@@ -13,6 +13,7 @@ season poster images:
 
 ---
 KUDZU PLAYHOUSE RECEIVES MISSISSIPPI ARTS COMMISSION GRANT
+
 Jackson, Mississippi, August 21, 2016 -- Kudzu Playhouse of Hernando has been awarded a $4,100 grant from the Mississippi Arts Commission (MAC). This grant is a portion of the $1.5 million in grants the Commission will award in 2016-2017 and will be used to create a greater awareness of the arts, specifically theatre, by providing and creating opportunities for instruction and education through camps, workshops, classes, and productions.  The grants are made possible by continued funding from the Mississippi State Legislature and the National Endowment for the Arts.
 
 “Organizations that support the arts play a pivotal role in growing Mississippi’s creative economy,” said Malcolm White, Executive Director of MAC. “The Mississippi Arts Commission is pleased to support their work, which reinforces the value of the arts for communities and for the economic development of our state.”
