@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Example content
+date: 2012-02-07 00:00:00 Z
+categories:
+- hyde
+layout: post
 ---
 
 This blog post shows a few different types of content that's supported and styled with Hyde. Basic typography, images, and code are all supported.
