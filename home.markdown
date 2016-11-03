@@ -34,7 +34,7 @@ For information from the Mississippi Arts Commission, contact Melia Dicker, Comm
 
 ---
 
-## Support Kudzu when you shop at Kroger and Amazon
+### Support Kudzu when you shop at Kroger and Amazon
 
 ![kroger_plus.jpg](/uploads/kroger_plus.jpg) Register for the Kroger Community Rewards Program and help support community theatre in the Mid-South.  Then, when you swipe your Kroger Plus card, Kudzu Playhouse will earn money - up to $50,000 per quarter.  Go to 
 www.krogercommunityrewards.com and click on the "Create an Account" link, or Sign In to your existing account.  Follow the instructions and please remember to select Kudzu Playhouse as your charity - our code is 84516.
