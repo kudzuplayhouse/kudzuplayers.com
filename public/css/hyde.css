@@ -166,7 +166,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
+img.left {
+  float:left;
+}
 
 /*
  * Themes
