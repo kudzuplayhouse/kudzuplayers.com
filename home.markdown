@@ -11,9 +11,13 @@ season poster images:
 
 # Announcing our 2017 Season of events!
 
+{% if page['season poster images'] %}
+<div class="slick">
 {% for poster in page['season poster images'] %}
   <img src="{{ poster }}" />
 {% endfor %}
+</div>
+{% endif %}
 
 ---
 KUDZU PLAYHOUSE RECEIVES MISSISSIPPI ARTS COMMISSION GRANT
