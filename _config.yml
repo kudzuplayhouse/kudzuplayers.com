@@ -29,12 +29,12 @@ defaults:
   values:
     layout: posts
     director: 
-    show_dates:
+    show_dates: 
     small image: 
-    featured image:
-    venue:
-    hashtag:
-    special_arrangments:
-    rating:
-    is_kidzu:
+    featured image: 
+    venue: 
+    hashtag: 
+    special_arrangments: 
+    rating: 
+    is_kidzu: 
 permalink: pretty
