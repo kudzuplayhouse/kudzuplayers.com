@@ -27,9 +27,14 @@ defaults:
     path: ''
     type: shows
   values:
+    layout: posts
     director: 
-    open date: 
-    close date: 
+    show_dates:
     small image: 
-    featured image: 
+    featured image:
+    venue:
+    hashtag:
+    special_arrangments:
+    rating:
+    is_kidzu:
 permalink: pretty

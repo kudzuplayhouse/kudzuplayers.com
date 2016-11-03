@@ -2,8 +2,7 @@
 title: Hairspray
 date: 2016-11-03 19:20:00 Z
 director: Keith Salter
-open date: 2016-01-22 00:00:00 Z
-close date: 2016-01-31 00:00:00 Z
+show_dates: January 22 - 31, 2016
 small image: "/uploads/hairspray_small.jpg"
 featured image: "/uploads/hairspray_featured.jpg"
 layout: post
