@@ -12,7 +12,7 @@ season poster images:
 # Announcing our 2017 Season of events!
 
 {% for poster in page['season poster images'] %}
-  {{ poster }}
+  <img src="{{ poster }}" />
 {% endfor %}
 
 ---
