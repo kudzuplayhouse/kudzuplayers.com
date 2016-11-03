@@ -173,6 +173,13 @@ img.left {
 .full-width {
   display:block;
   width:100%;
+  overflow:auto;
+}
+
+.col-2 {
+  width:48%;
+  margin:0 1%;
+  float:left;
 }
 
 .col-5 {
