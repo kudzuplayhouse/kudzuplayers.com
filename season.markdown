@@ -5,7 +5,7 @@ date: 2016-11-03 19:38:00 Z
 
 <div class="shows">
 {% for show in site.shows %}
-
+    {% if show.season == "2016" %}
     <div class="full-width">
         <div class="col-2">
             <a href="{{ show.url }}">
@@ -37,5 +37,6 @@ date: 2016-11-03 19:38:00 Z
         </div>
     </div>
     <hr>
+  {% endif %}
 {% endfor %}
 </div>
