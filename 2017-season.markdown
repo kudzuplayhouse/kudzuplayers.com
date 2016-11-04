@@ -1,6 +1,7 @@
 ---
 title: 2017 Season
 date: 2016-11-04 17:48:00 Z
+position: 2
 ---
 
 <div class="shows">
