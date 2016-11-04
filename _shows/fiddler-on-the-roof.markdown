@@ -10,6 +10,7 @@ hashtag: "#fiddlerkudzu"
 special_arrangments: Presented by special arrangement with MUSIC THEATRE INTERNATIONAL
   (MTI)
 rating: PG
+layout: show
 ---
 
 Based on Sholem Aleichem stories by special permission of Arnold Perl

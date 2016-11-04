@@ -10,85 +10,91 @@ hashtag: "#hairspraykudzu"
 special_arrangments: Presented by special arrangement with MUSIC THEATRE INTERNATIONAL
   (MTI)
 rating: PG
-layout: post
+layout: show
 ---
 
-Music by MARC SHAIMAN
-Lyrics by SCOTT WITTMAN & MARC SHAIMAN
-Book by MARK O'DONNELL & THOMAS MEEHAN
-Based on the New Line Cinema Film Directed by JOHN WATERS
+> Music by MARC SHAIMAN<br>
+> Lyrics by SCOTT WITTMAN & MARC SHAIMAN<br>
+> Book by MARK O'DONNELL & THOMAS MEEHAN<br>
+> Based on the New Line Cinema Film Directed by JOHN WATERS<br>
+>
+> Directed by Keith Salter<br>
+> January 22 to 31, 2016<br>
+> Hernando Performing Arts Center<br>
+> Rated PG*<br>
+>
+> Public Showtimes: Fridays at 7:00 p.m.<br>
+> Saturdays at 2:00 p.m. & 7:00 p.m.<br>
+> Sundays at 2:00 p.m.<br>
+> Thursday, January 28 at 7:00 p.m. (Pay What You Can)<br>
 
-Directed by Keith Salter
-January 22 to 31, 2016
-Hernando Performing Arts Center
-Rated PG*
+<br>
+<small>A note about show ratings: Kudzu Playhouse provides ratings for our shows merely as a guide for parents/guardians.  We encourage anyone who may have questions about the rating to research that show and make a decision for themselves based on personal experience, maturity of any child who may be attending, and individual preferences.</small>
 
-Public Showtimes: Fridays at 7:00 p.m.
-Saturdays at 2:00 p.m. & 7:00 p.m. 
-Sundays at 2:00 p.m.
-Thursday, January 28 at 7:00 p.m. (Pay What You Can)
-
-*A note about show ratings: Kudzu Playhouse provides ratings for our shows merely as a guide for parents/guardians.  We encourage anyone who may have questions about the rating to research that show and make a decision for themselves based on personal experience, maturity of any child who may be attending, and individual preferences. 
 ---
+
 It’s 1962 in Baltimore, Maryland, and quirky, plus-sized, teenage Tracy Turnblad has one dream: to dance on the “Corny Collins Show”. When she gets put in detention with the African-American students in the school, they teach her some of their dance moves, and her new found groove wins her a spot on Corny’s show. Overnight, Tracy transforms from a nobody into a star, and uses her newfound influence to advocate for racial integration on the television show. Tracy faces scrutiny and bullying from the network producer, Velma, and her popular, but vicious, daughter, Amber. With the help of the teenage heartthrob Link, host Corny Collins, and Motormouth Maybelle (the host of ‘Negro Day’), Tracy overcomes the odds and succeeds in her mission to integrate the “Corny Collins Show.” Tony Award-winning Hairspray continues to be one of the most widely produced musicals today, not only because of its wit and charm, but also because of the beautiful message of acceptance and progress that it portrays. The bright, energetic story of Tracy Turnblad teaches us all to look past the color of one’s skin and fight for every human being’s equal rights.
+
 ---
-CAST LIST
+> #### CAST LIST
+>
+> Tracy Turnblad - Rachel Adkins<br>
+> Link Larkin - Brynden Foster<br>
+> Edna Turnblad – Justin Bixler<br>
+> Penny Pingleton  - Reagan Zizmann<br>
+> Velma Von Tussle – Sarah Browning<br>
+> Amber Von Tussle – Mikayla House<br>
+> Corny Collins – Johnny Fedorenko<br>
+> Seaweed J. Stubbs - Cody Green<br>
+> Little Inez - Talazia Harris<br>
+> Motormouth Maybelle – Nicole Baynham-Hernandez<br>
+> Wilbur Turnblad - Grady Phillips<br>
+> Prudy Pingleton – Lauren Suddoth<br>
+> Mr. Pinky - Grady Phillips<br>
+> Gym Teacher – Brittany Navarro<br>
+> Harriman F. Spritzer - Oleg Fedorenko/Daniel Mullins<br>
+> Matron - Meagan Millier<br>
+> Gilbert – Dayton Shegog<br>
+> Stooie - Bishop Bayhnam<br>
+> Cindy Watkins – Yazmine Lynch<br>
+> Lorraine - Briana Patton<br>
+> Duane - Shaquille Conrad<br>
+>
+> Corny Collins Council Members:<br>
+> Tammy – Leeza Fedorenko<br>
+> Brad - Hayden Brown<br>
+> Fender – Jacob Vogelsang<br>
+> Brenda - Steile Warren<br>
+> Sketch - Brady Pillstrom<br>
+> Shelley - Jillian Worthing<br>
+> IQ – Zachary Farrow<br>
+> Lou Ann – Abby Morton<br>
+>
+> The Dynamites:<br>
+> Chi'conna Gober<br>
+> Yazmine Lynch<br>
+> Briana Patton<br>
+>
+> Ensemble:<br>
+> Guard – Wesley Corbitt<br>
+> Beatnik Chick – Madison Cox<br>
+> Trinity Baynham<br>
+> Brandyce Berryman<br>
+> Aaliyah Bolton<br>
+> Amy Clevenger<br>
+> Hannah Davis<br>
+> Chi'conna Gober<br>
+> Mary Addyson Harville<br>
+> Malikah Hasan<br>
+> Sabrina Jackson<br>
+> Jasmine Kelley<br>
+> Prichan Murrell<br>
+> Katie Poelman<br>
+> Jayden Pointer<br>
+> Jaszlyn Scurlock<br>
+> Ronda Scurlock<br>
+> Ryan Scurlock<br>
 
-Tracy Turnblad - Rachel Adkins
-Link Larkin - Brynden Foster
-Edna Turnblad – Justin Bixler
-Penny Pingleton  - Reagan Zizmann
-Velma Von Tussle – Sarah Browning
-Amber Von Tussle – Mikayla House
-Corny Collins – Johnny Fedorenko
-Seaweed J. Stubbs - Cody Green
-Little Inez - Talazia Harris 
-Motormouth Maybelle – Nicole Baynham-Hernandez
-Wilbur Turnblad - Grady Phillips
-Prudy Pingleton – Lauren Suddoth
-Mr. Pinky - Grady Phillips
-Gym Teacher – Brittany Navarro
-Harriman F. Spritzer - Oleg Fedorenko/Daniel Mullins
-Matron - Meagan Millier
-Gilbert – Dayton Shegog
-Stooie - Bishop Bayhnam
-Cindy Watkins – Yazmine Lynch
-Lorraine - Briana Patton
-Duane - Shaquille Conrad
-
-Corny Collins Council Members:
-Tammy – Leeza Fedorenko
-Brad - Hayden Brown
-Fender – Jacob Vogelsang
-Brenda - Steile Warren
-Sketch - Brady Pillstrom       
-Shelley - Jillian Worthing
-IQ – Zachary Farrow
-Lou Ann – Abby Morton
-
-The Dynamites: 
-Chi'conna Gober
-Yazmine Lynch
-Briana Patton
-
-Ensemble:
-Guard – Wesley Corbitt
-Beatnik Chick – Madison Cox
-Trinity Baynham
-Brandyce Berryman
-Aaliyah Bolton
-Amy Clevenger
-Hannah Davis
-Chi'conna Gober
-Mary Addyson Harville
-Malikah Hasan
-Sabrina Jackson
-Jasmine Kelley
-Prichan Murrell
-Katie Poelman
-Jayden Pointer
-Jaszlyn Scurlock
-Ronda Scurlock
-Ryan Scurlock
 ---
+
 HAIRSPRAY is presented through special arrangement with Music Theatre International (MTI).

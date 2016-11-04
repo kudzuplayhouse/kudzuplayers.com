@@ -27,7 +27,7 @@ defaults:
     path: ''
     type: shows
   values:
-    layout: post
+    layout: show
     director: 
     show_dates: 
     small image: 

@@ -204,6 +204,19 @@ footer .content {
   padding-top:10px;
 }
 
+blockquote {
+  padding:0;
+  margin:0;
+  border-left:0;
+  text-align:center;
+}
+
+@media (min-width:30rem) {
+  blockquote {
+    padding:0;
+  }
+}
+
 /*
  * Themes
  *
