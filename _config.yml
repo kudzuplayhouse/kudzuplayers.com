@@ -37,5 +37,6 @@ defaults:
     hashtag: 
     special_arrangments: 
     rating: 
-    is kidzu: 
+    is kidzu:
+    is no_details:
 permalink: pretty
