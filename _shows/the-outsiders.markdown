@@ -1,6 +1,7 @@
 ---
 title: The Outsiders
 date: 2016-11-04 16:06:00 Z
+season: 2016
 director: Daniel Mullins
 show_dates: September 17 to 25, 2016
 small image: "/uploads/352860.jpg"

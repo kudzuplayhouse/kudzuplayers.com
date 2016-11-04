@@ -28,6 +28,7 @@ defaults:
     type: shows
   values:
     layout: show
+    season:
     director: 
     show_dates: 
     small image: 

@@ -1,6 +1,7 @@
 ---
 title: Hairspray
 date: 2016-11-03 19:20:00 Z
+season: 2016
 director: Keith Salter
 show_dates: January 22 - 31, 2016
 small image: "/uploads/hairspray_small.jpg"

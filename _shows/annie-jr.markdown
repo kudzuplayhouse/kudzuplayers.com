@@ -1,6 +1,7 @@
 ---
 title: Annie Jr.
 date: 2016-11-04 16:25:00 Z
+season: 2016
 director: Daphne Cox
 show_dates: November 4 to 13, 2016
 small image: "/uploads/3076548.jpg"
@@ -14,16 +15,16 @@ is kidzu: true
 ---
 
 <center>
-Book by THOMAS MEEHAN
-Music by CHARLES STROUSE
-Lyrics by MARTY CHARNIN
+Book by THOMAS MEEHAN<br>
+Music by CHARLES STROUSE<br>
+Lyrics by MARTY CHARNIN<br>
 </center>
 <br>
 <center>
-**Directed by Daphne Cox**<br>
-**November 4 to 13, 2016**<br>
-**Hernando Performing Arts Center**<br>
-**Rated G**<br>
+<b>Directed by Daphne Cox</b><br>
+<b>November 4 to 13, 2016</b><br>
+<b>Hernando Performing Arts Center</b><br>
+<b>Rated G</b><br>
 Public Showtimes:<br>
 November 4, 5, 10, 11 & 12 at 7:00 p.m.<br>
 November 5, 6, 12 & 13 at 2:00 p.m.<br>

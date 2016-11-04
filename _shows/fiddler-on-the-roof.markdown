@@ -1,6 +1,7 @@
 ---
 title: Fiddler On The Roof
 date: 2016-11-03 20:25:00 Z
+season: 2016
 director: Wesley Williamson
 show_dates: July 22 - 31, 2016
 small image: "/uploads/fiddler_small.jpg"
