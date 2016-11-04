@@ -2,6 +2,9 @@
 title: Kudzu Playhouse
 timezone: UTC
 collections:
+  dinner-theatre:
+    title: Dinner Theatre
+    output: true
   posts:
     title: Posts
     output: true
