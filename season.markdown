@@ -3,15 +3,17 @@ title: Shows
 date: 2016-11-03 19:38:00 Z
 ---
 
-<div>
+<div class="shows">
 {% for show in site.shows %}
 
     <div class="full-width">
         <div class="col-2">
+            <a href="{{ show.url }}">
             <img src="{{ show['small image'] }}" />
+            </a>
         </div>
         <div class="col-2">
-            <h4> {{ show.title }}</h4>
+            <a href="{{ show.url }}"><h4> {{ show.title }}</h4></a>
             <p>
             Directed by {{ show.director }}
             </p>
@@ -34,5 +36,6 @@ date: 2016-11-03 19:38:00 Z
             </p>
         </div>
     </div>
+    <hr>
 {% endfor %}
 </div>
