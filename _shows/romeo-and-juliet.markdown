@@ -27,7 +27,7 @@ Field Trip Weekday Matinee Performances for school and home school groups:<br>
 Tuesday, January 24th - 8:45 a.m. & 11:30 a.m.<br>
 Thursday, January 26th - 8:45 a.m. & 11:30 a.m.<br>
 </center>
-
+<br>
 <small>A note about show ratings: Kudzu Playhouse provides ratings for our shows merely as a guide for parents/guardians.  We encourage anyone who may have questions about the rating to research that show and make a decision for themselves based on personal experience, maturity of any child who may be attending, and individual preferences.</small>
 
 ---
