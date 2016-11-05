@@ -13,7 +13,7 @@ season poster images:
 # Announcing our 2017 Season of events!
 
 {% if page['season poster images'] %}
-<div class="slick">
+<div class="slick" style="max-height:500px; overflow:hidden;">
 {% for poster in page['season poster images'] %}
   <img src="{{ poster }}" />
 {% endfor %}
