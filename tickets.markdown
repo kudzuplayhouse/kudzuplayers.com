@@ -4,7 +4,6 @@ date: 2016-11-05 15:35:00 Z
 position: 4
 ---
 
-> #### Tickets
 > <b>Adults - $17</b><br>
 > <b>Seniors (age 55 & up) - $12</b><br>
 > <b>Students/Children - $12</b><br>
