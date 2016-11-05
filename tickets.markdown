@@ -5,11 +5,11 @@ position: 4
 ---
 
 > #### Tickets
-> **Adults - $17**
-> **Seniors (age 55 & up) - $12**
-> **Students/Children - $12**
-> **Children under 3 - free**
-> All tickets are General Admission.  Children under 3 are free.
+> <b>Adults - $17</b><br>
+> <b>Seniors (age 55 & up) - $12</b><br>
+> <b>Students/Children - $12</b><br>
+> <b>Children under 3 - free</b><br>
+> All tickets are General Admission.  Children under 3 are free.<br>
 
 Tickets for all public performances can be purchased online securely through PayPal beginning one month prior, until two days prior, to opening night.  Tickets may also be purchased at the box office on show days starting one hour before each show.
 Purchasing Tickets Online
@@ -24,3 +24,5 @@ Tickets may be purchased online until two days prior to opening night.
 Tickets may be also purchased at the box office on any show day.
 
 <small>A note about show ratings: Kudzu Playhouse provides ratings for our shows merely as a guide for parents/guardians.  We encourage anyone who may have questions about the rating to research that show and make a decision for themselves based on personal experience, maturity of any child who may be attending, and individual preferences.</small>
+<br>
+---
