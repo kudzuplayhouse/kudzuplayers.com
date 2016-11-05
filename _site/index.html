@@ -72,6 +72,14 @@
         
           
             <li class="sidebar-nav-item">
+              <a href="/auditions/">Auditions</a>
+            </li>
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
               <a href="/about-us/">About Us</a>
             </li>
           
@@ -167,6 +175,15 @@ www.krogercommunityrewards.com and click on the “Create an Account” link, or
         $(".slick").slick({
             autoplay: true
         });
+
+        var footerPosition = parseInt($("footer").offset().top, 10);
+        var footerHeight = parseInt($("footer").height(), 10);
+        var viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+        var margin = viewportHeight - (footerHeight + footerPosition);
+
+        if (footerPosition < viewportHeight) {
+            $("footer").css({marginTop: margin + 'px'})
+        }
     });
 </script>
   </body>
