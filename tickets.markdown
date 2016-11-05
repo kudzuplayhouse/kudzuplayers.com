@@ -11,6 +11,7 @@ position: 4
 > <b>Children under 3 - free</b><br>
 > All tickets are General Admission.  Children under 3 are free.<br>
 <br>
+
 Tickets for all public performances can be purchased online securely through PayPal beginning one month prior, until two days prior, to opening night.  Tickets may also be purchased at the box office on show days starting one hour before each show.
 Purchasing Tickets Online
 A $0.50 PayPal service fee is added to each ticket purchased online.   
