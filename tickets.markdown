@@ -26,4 +26,5 @@ Tickets may be also purchased at the box office on any show day.
 
 <small>A note about show ratings: Kudzu Playhouse provides ratings for our shows merely as a guide for parents/guardians.  We encourage anyone who may have questions about the rating to research that show and make a decision for themselves based on personal experience, maturity of any child who may be attending, and individual preferences.</small>
 <br>
+
 ---
