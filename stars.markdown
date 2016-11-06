@@ -1,6 +1,7 @@
 ---
 title: S.T.A.R.S.
 date: 2016-11-06 20:34:00 Z
+position: 8
 ---
 
 <img src="/uploads/2228053.jpg" style="margin:0 auto;">
