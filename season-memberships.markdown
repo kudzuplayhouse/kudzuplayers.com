@@ -14,7 +14,7 @@ Select the package or packages you need for each member of your family or busine
 > Adult Membership $50 each (1 ticket /show) - 25% savings!<br>
 > Senior Membership $30 each (1 ticket /show) - 25% savings!<br>
 > Student Membership $30 each (1 ticket /show) - 25% savings!<br>
-
+<br>
 If you wish to become a member, please select the type of membership you desire from the options below. Please be sure to enter any discount code you may have received in the appropriate box!  You will be directed to PayPal to complete your submission.
 Note: Student memberships are applicable to all individuals age 3+.  College students may be asked to present student ID.  Senior memberships are available to all individuals age 55 and over.
 
