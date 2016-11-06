@@ -1,6 +1,7 @@
 ---
 title: Group Sales
 date: 2016-11-06 20:30:00 Z
+position: 7
 ---
 
 ### Organizations / Groups - Public Performances
