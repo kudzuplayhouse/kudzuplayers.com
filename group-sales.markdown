@@ -35,3 +35,8 @@ Cancellation: Kudzu Playhouse recognizes that plans can change. Should you need 
 Non-public weekday matinee performances for educational groups are available for many of our Kudzu & Kidzu shows.  Check our season schedule for upcoming shows.
 
 To schedule your educational group for a non-public weekday matinee performance and take advantage of the group discount rate, please submit a Field Trip Group Request, and someone will be in touch with you.
+
+---
+
+Do you have a group of 15 or more that does not fall under one of the categories above? Don't worry, there may still be a group discount available.  
+Fill out a Group Request Form and someone will be in touch with you soon.
