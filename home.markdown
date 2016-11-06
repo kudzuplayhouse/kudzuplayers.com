@@ -2,7 +2,7 @@
 title: Index
 date: 2016-11-02 22:38:00 Z
 permalink: "/"
-position: 0
+position: 1
 season poster images:
 - "/uploads/romeo_and_juliet.jpg"
 - "/uploads/noir_suspicion.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Auditions
 date: 2016-11-05 04:19:00 Z
-position: 3
+position: 4
 ---
 
 ### There are currently no scheduled auditions.  Please check back for updates.

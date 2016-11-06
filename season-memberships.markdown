@@ -1,6 +1,7 @@
 ---
 title: Season Memberships
 date: 2016-11-06 20:22:00 Z
+position: 6
 ---
 
 Members receive deeply discounted ticket prices, priority seating, and advance news regarding our productions.  By becoming a member, you help make it possible for us to provide quality community theatrical productions and expand our educational offerings.

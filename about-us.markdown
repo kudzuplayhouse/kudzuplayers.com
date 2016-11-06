@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2016-11-04 20:13:00 Z
-position: 5
+position: 7
 ---
 
 ## Mission
