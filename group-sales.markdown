@@ -22,9 +22,9 @@ Tickets: We are honored to be able to provide educational group discount rates f
 
 Payment: Payment must be made at least two weeks prior to the performance date to secure your group's seating and should be made via check or money order (payable to “Kudzu Playhouse”) and mailed to:
 
-Kudzu Field Trips<br>
+<b>Kudzu Field Trips<br>
 P.O. Box 47<br>
-Hernando, MS 38632<br>
+Hernando, MS 38632</b><br>
 
 Planning Your Visit: In consideration of all groups and their schedules, we are unable to delay the beginning of a performance because a group is running late, regardless of the reason. All groups should plan to arrive at least 30 minutes prior to performance time. No groups should arrive before 7:45 a.m. to allow for school day traffic at Hernando High and Middle Schools. No parking is allowed anywhere on the campus of Hernando High School or the adjoining streets. Parking is available at Hernando Middle School.
 
