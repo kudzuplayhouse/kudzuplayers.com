@@ -3,7 +3,7 @@ title: S.T.A.R.S.
 date: 2016-11-06 20:34:00 Z
 ---
 
-![2228053.jpg](/uploads/2228053.jpg)
+<img src="/uploads/2228053.jpg" style="margin:0 auto;">
 
 #### About S.T.A.R.S.
 
@@ -13,7 +13,7 @@ S.T.A.R.S. is Kudzu Playhouse's premiere theatrical education program, designed 
 
 <em><b><center>Fall 2016 S.T.A.R.S. Theatre Training Program</center></b></em>
 
-![769361.png](/uploads/769361.png) 
+<img src="/uploads/769361.png" style="float:left;">
 Classes: Thursdays, beginning August 25, 2016<br>
 5:00 to 6:30 p.m.<br>
 Location: New Discovery Church, 961 Vinson Road, Hernando, MS<br>
