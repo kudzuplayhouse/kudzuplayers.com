@@ -3,9 +3,7 @@ title: S.T.A.R.S.
 date: 2016-11-06 20:34:00 Z
 ---
 
-<center>
 ![2228053.jpg](/uploads/2228053.jpg)
-</center>
 
 #### About S.T.A.R.S.
 
