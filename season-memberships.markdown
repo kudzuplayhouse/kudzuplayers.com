@@ -19,3 +19,5 @@ If you wish to become a member, please select the type of membership you desire 
 Note: Student memberships are applicable to all individuals age 3+.  College students may be asked to present student ID.  Senior memberships are available to all individuals age 55 and over.
 
 If you have a discount code or received a membership as part of a charitable package, please complete the form at the bottom of the page only.
+
+---
