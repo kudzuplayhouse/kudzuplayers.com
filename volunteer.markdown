@@ -105,12 +105,16 @@ If you have formal training or work experience in any area, please email a resum
             e.preventDefault();
             var formData = $(e.target).serializeArray().reduce(function(a,x) {
 
-                a[x.name] = x.value;
+                a.data[x.name] = x.value;
                 return a;
 
-            }, {});
-            console.dir(formData);
-            console.log("Submitted!");
+            }, {data: {}});
+
+            $.post("https://c4fkmchy15.execute-api.us-east-1.amazonaws.com/prod/emailer", formData, function(data, status) {
+                if(status == "200") {
+                    console.log("Sent");
+                }
+            }, "json");
         });
 
     });
