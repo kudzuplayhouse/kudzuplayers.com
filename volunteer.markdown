@@ -111,7 +111,7 @@ If you have formal training or work experience in any area, please email a resum
             }, {data: {}});
 
             var submitBtn = $('.interest_form input[type="submit"]');
-            sumbitBtn.attr('disabled', 'disabled');
+            submitBtn.attr('disabled', 'disabled');
 
             $.ajax({
                url: 'https://c4fkmchy15.execute-api.us-east-1.amazonaws.com/prod/emailer',
