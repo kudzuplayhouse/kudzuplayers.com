@@ -110,11 +110,17 @@ If you have formal training or work experience in any area, please email a resum
 
             }, {data: {}});
 
-            $.post("https://c4fkmchy15.execute-api.us-east-1.amazonaws.com/prod/emailer", formData, function(data, status) {
-                if(status == "200") {
-                    console.log("Sent");
-                }
-            }, "json");
+            $.ajax({
+               url: 'https://c4fkmchy15.execute-api.us-east-1.amazonaws.com/prod/emailer',
+               dataType: 'json',
+               contentType: 'application/json',
+               data: formData,
+               success: function(data) {
+                  console.dir(data);
+               },
+               method: 'POST'
+            });
+
         });
 
     });
