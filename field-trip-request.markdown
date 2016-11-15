@@ -48,6 +48,23 @@ Please fill out and submit the form below. You will receive a confirmation email
         <label for="number_of_guests">Number of Additional Guests:</label>
         <input type="text" name="number_of_guests" id="number_of_guests">
     </fieldset>
+    <fieldset>
+       <b>Indicate which performance of ROMEO & JULIET you are interested in attending so we can check availability.</b>
+       <ul>
+          <li>
+             <label>Tuesday, January 24 at 8:45 a.m.<input type="checkbox" name="jan_24_0845" /></label>
+          </li>
+          <li>
+             <label>Tuesday, January 24 at 11:30 a.m.<input type="checkbox" name="jan_24_1130" /></label>
+          </li>
+          <li>
+             <label>Thursday, January 26 at 8:45 a.m.<input type="checkbox" name="jan_26_0845" /></label>
+          </li>
+          <li>
+             <label>Thursday, January 26 at 11:30 a.m.<input type="checkbox" name="jan_26_1130" /></label>
+          </li>
+       </ul>
+    </fieldset>
     <input type="submit" value="Submit">
     <input type="hidden" name="form_name" value="matinee_field_trip_form">
 </form>
