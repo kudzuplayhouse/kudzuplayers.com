@@ -22,3 +22,9 @@ Note: Student memberships are applicable to all individuals age 3+.  College stu
 If you have a discount code or received a membership as part of a charitable package, please complete the form at the bottom of the page only.
 
 ---
+
+[Purchase Adult Season Membership](https://squareup.com/store/northwest-mississippi-theathre-guild/item/adult-season-membership?square_lead=item_embed)
+
+[Purchase Student/Senior Season Membership](https://squareup.com/store/northwest-mississippi-theathre-guild/item/student-senior-season-membership?square_lead=item_embed)
+
+Clicking either of these links will take you to the online store, where you can purchase season memberships.
