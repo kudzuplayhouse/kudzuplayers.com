@@ -15,7 +15,7 @@ Tickets for all public performances can be purchased online securely through Pay
 Purchasing Tickets Online
 A $0.50 PayPal service fee is added to each ticket purchased online.   
 
-After you complete your transaction, you will receive a notification email from PayPal confirming that you have made a purchase from “Northwest Mississippi Theatre Guild,” which is Kudzu Playhouse. Tickets will not be mailed, but can be picked up at “Will Call” at the box office on show days.  The box office opens one hour prior to show times.   YOU MUST BRING A COPY OF THE CONFIRMATION EMAIL WITH YOU TO CLAIM YOUR TICKETS.  
+After you complete your transaction, you will receive a notification email from Square confirming that you have made a purchase from “Northwest Mississippi Theatre Guild,” which is Kudzu Playhouse. Tickets will not be mailed, but can be picked up at “Will Call” at the box office on show days.  The box office opens one hour prior to show times.   YOU MUST BRING A COPY OF THE CONFIRMATION EMAIL WITH YOU TO CLAIM YOUR TICKETS.  
 
 Online tickets can be purchased up to two days before opening night and refunded up to 24 hours before show time.  Refunds must be requested in writing. To request a refund, email kudzuplayhousems@gmail.com from the email address you used when purchasing your tickets.
 
@@ -27,3 +27,9 @@ Tickets may be also purchased at the box office on any show day.
 <br>
 
 ---
+
+[Purchase Adult Ticket](https://squareup.com/store/northwest-mississippi-theathre-guild/item/adult-musical-ticket?square_lead=item_embed)
+
+[Purchase Student/Senior Ticket](https://squareup.com/store/northwest-mississippi-theathre-guild/item/child-senior-theatre-ticket?square_lead=item_embed)
+
+Clicking either of these links will take you to the online store where you can purchase additional types of tickets (Student/Senior, Adult, Season, etc.)
